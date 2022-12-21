@@ -10,7 +10,8 @@ Recently, fusing the LiDAR point cloud and camera image to improve the performan
 
 ![image](img/framework.png)
 
-
+## TODO
+**Note:  We will integrate CB-Fusion into [OpenPCDet](https://github.com/open-mmlab/OpenPCDet) for training multiple categories. Besides, we will provide voxel-wise fusion based on CB-Fusion on both Waymo and KITTI dataset. We plan to release them in January, 2023. ** 
 
 ## Install(Same with [PointRCNN](https://github.com/sshaoshuai/PointRCNN))
 
