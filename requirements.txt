@@ -1,0 +1,17 @@
+#torch===1.2.0  (对PED和CYC影响很大!!!)
+#torchvision===0.4.0
+opencv-python
+shapely
+Cython
+scipy
+pandas
+PyYAML==5.4.1
+json_tricks
+scikit-image
+yacs>=0.1.5
+tensorboardX>=1.6
+tqdm
+ninja
+fire
+numba==0.53.1
+easydict
